@@ -17,6 +17,7 @@
     "json-stringify-safe": "^5.0.1",
     "redis": "^2.8.0"
   },
+  "bundleDependencies": true,
   "devDependencies": {
     "mocha": "^5.2.0",
     "nyc": "^10.0.0",
